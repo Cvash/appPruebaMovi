@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">hedgehog_app</string>
+    <string name="crear_la_interfaz_para_el_usuario_sordo">Crear la interfaz para el usuario sordo</string>
+    <string name="presiones_para_hablar">Presiones para hablar</string>
+    <string name="todo">TODO</string>
+</resources>
